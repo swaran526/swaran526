@@ -22,7 +22,7 @@
 - 💻 I build web apps with **React**, **Java Spring Boot**, and modern frontend tooling
 - 🌱 Currently sharpening my skills in full-stack development & REST APIs
 - 🚀 Recently shipped: a job recruitment portal, and animated marketing websites
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- 📫 Reach me at: **swaranparvam526@gmail.com**
 
 ---
 
