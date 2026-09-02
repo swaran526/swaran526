@@ -1,110 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Swaran%20K%20N&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20(Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React)&descSize=15&descAlignY=58&descColor=cfd8dc" width="100%"/>
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Swaran+K+N+👋;Full-Stack+Java+%26+React+Developer+🚀;App+Automation+Engineer+%E2%9A%99%EF%B8%8F;Oracle+Certified+GenAI+Professional+🤖" alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="mailto:swaranparvam526@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/swarankn526"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/swaran526"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=swaran526&style=flat-square&color=2C5364&label=Profile+Views" />
+<p align="center">
+  <b>Computer Science Engineering Graduate | Full-Stack Developer | App Automation Specialist</b>
 </p>
+
+<!-- SOCIAL & CONTACT BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/swaran-k-n-0705072a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:swaru14a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/swaran526">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="tel:+917899058019">
+    <img src="https://img.shields.io/badge/Phone-+91_7899058019-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swaran526&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-## About
+🎓 **B.E. in Computer Science & Engineering** from **Cambridge Institute of Technology, Bengaluru** (CGPA: 7.8 / 10).
 
-Final-year engineering student (VTU) specializing in Full-Stack Java Development. Experienced in designing and building end-to-end web applications — from relational database schema through Spring Boot REST APIs to React-based user interfaces — with a working knowledge of authentication and access control using JWT.
+- 💼 **Full-Stack Java Intern** at **ParvaM Consul Tech Pvt. Ltd.** (Building RESTful APIs with Spring Boot, React.js frontend integration, and MySQL database optimization).
+- 📜 **Oracle Certified** Generative AI Professional (OCI GenAI Certified).
+- 🛠️ Skilled in **App Automation**, **PowerShell**, **Python Scripting**, **System Diagnostics**, and **REST API Testing**.
+- 📍 Based in **Bengaluru, India** 🇮🇳.
+- 🗣️ Languages: **English**, **Kannada**, **Hindi**.
 
-<br/>
+---
 
-## Technical Skills
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-- Java, Spring Boot
-- RESTful API Design
-- JWT Authentication & Authorization
-- MySQL (Relational Database Design)
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-- React, JavaScript (ES6+)
-- Vite, Tailwind CSS
-- HTML5, CSS3, Responsive Design
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Tools & Practices**
-- Git & GitHub
-- Postman (API Testing)
-- Role-Based Access Control
-
-</td>
-<td valign="top">
-
-**Currently Strengthening**
-- Data Analytics (TNSIF Program)
-- System Design Fundamentals
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-<br/>
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Job Recruitment Portal — InspiHire](https://github.com/swaran526/job_recruitment_portal-inspihire-)** | Full-stack recruitment platform with role-based access, resume uploads, and application tracking | React · Spring Boot · MySQL · JWT |
-| **[Well Edge Cutting Tools](https://github.com/swaran526/welledgecuttingtools-website)** | Animated marketing website for an industrial tools company | React · Vite |
-| **[Paramount Website](https://github.com/swaran526/Paramout-website)** | Responsive corporate website | React · Vite · Tailwind CSS |
-| **[ParvaM Internship](https://github.com/swaran526/ParvaM_internship)** | Internship coursework: backend APIs, frontend, and API testing | Java · Spring Boot · JavaScript |
-| **[Full-Stack Java Notes](https://github.com/swaran526/Full-Stack-Java-Notes)** | Structured notes and practice code from full-stack Java learning | Java · HTML/CSS · JavaScript |
-
-<br/>
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaran526&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaran526&layout=compact&theme=default&hide_border=true&cache_seconds=86400" width="30%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swaran526&theme=default&hide_border=true" width="60%" />
-</p>
-
-<br/>
+## 🚀 Tech Stack & Toolkit
 
 <div align="center">
 
-**Open to Full-Stack Developer, Java Developer, and React Developer roles**
+### 💻 Backend & Core Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<a href="mailto:swaranparvam526@gmail.com">swaranparvam526@gmail.com</a> · <a href="https://www.linkedin.com/in/swarankn526">linkedin.com/in/swarankn526</a>
+### 🎨 Frontend Development
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### ⚙️ DevOps & Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+---
+
+## 🏆 Featured Projects & Key Achievements
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ Full-Stack Java Internship Repository</h3>
+      <p align="center">
+        <a href="https://github.com/swaran526/Full-stack_java_intership">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=swaran526&repo=Full-stack_java_intership&theme=radical&show_owner=true" alt="Full-Stack Java Internship" />
+        </a>
+      </p>
+      <ul>
+        <li>Comprehensive 5-month portfolio covering Java 17, Spring Boot 3.x, Spring Security 6, React.js, and JPA.</li>
+        <li>Includes 14 core Java practice folders and 9 Spring Boot microservice applications.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 InspiHire - Job Recruitment Portal</h3>
+      <p align="center">
+        <b>Java • Spring Boot • MySQL • Postman API Testing</b>
+      </p>
+      <ul>
+        <li>End-to-end recruitment platform with optimized relational database schemas.</li>
+        <li>Implemented custom REST endpoints and verified security compliance with Postman.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚗 Smart City Accident Monitoring System</h3>
+      <p align="center">
+        <b>IoT • Automation • Event Notification Logic</b>
+      </p>
+      <ul>
+        <li>Real-time automated accident detection connecting hardware sensors to emergency logic triggers.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">😴 Drowsy Driver Detection System</h3>
+      <p align="center">
+        <b>Python • OpenCV • Convolutional Neural Networks (CNN)</b>
+      </p>
+      <ul>
+        <li>Computer vision alarm system recognizing driver fatigue and facial status cues in real-time.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics & Streak
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swaran526&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Swaran's GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaran526&theme=radical&hide_border=true" alt="Swaran's GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaran526&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+
+</div>
+
+---
+
+## 📜 Certifications & Honors
+
+- 🏅 **Oracle Cloud Infrastructure Certified Generative AI Professional**
+- 🏅 **Java Full Stack Developer Internship Certificate** (ParvaM Consul Tech)
+- 🏅 **Microsoft Office using AI & ChatGPT** Certification
+
+---
+
+## 📫 How to Reach Me
+
+- ✉️ **Email**: [swaru14a@gmail.com](mailto:swaru14a@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/swaran-k-n-0705072a4](https://www.linkedin.com/in/swaran-k-n-0705072a4)
+- 📞 **Phone**: [+91 7899058019](tel:+917899058019)
+- 🌐 **GitHub Profile**: [github.com/swaran526](https://github.com/swaran526)
+
+<div align="center">
+
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+<br />
+
+*⚡ "Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+</div>
