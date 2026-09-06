@@ -1,248 +1,139 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,12&height=220&section=header&text=SWARAN%20K%20N&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 
-# Hi, I'm Swaran K N 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Open+to+Hire+%E2%80%94+Immediately;Spring+Boot+%2B+React.js" alt="Typing SVG" />
+  </a>
 
-### Full-Stack Java Developer
+  <br/>
 
-**Java 17/21 · Spring Boot · Spring Security · React.js · MySQL · REST APIs · Automation**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaran526)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaran-k-n-0705072a4)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaru14a@gmail.com)
-
-📍 Bengaluru, Karnataka, India
-
+  <a href="mailto:swarankn05@gmail.com"><img src="https://img.shields.io/badge/Email-swarankn05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/swaran-kn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Swaran_K_N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/swaran526" target="_blank"><img src="https://img.shields.io/badge/GitHub-swaran526-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://aimcuttingtools.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Why hire me
 
-I'm a Computer Science Engineering graduate focused on building reliable, maintainable full-stack applications with **Java** and **Spring Boot**.
-
-My primary stack is **Java 17/21, Spring Boot 3.x, Spring Security 6, Spring Data JPA, Hibernate, MySQL, React.js and JavaScript**, with practical exposure to PowerShell automation, Python, Postman API testing, Git/GitHub, and Oracle Cloud Generative AI.
-
-I enjoy turning requirements into clean APIs, well-structured database models, and responsive user interfaces — following practical software-engineering practices along the way.
-
-- 💻 **Focus:** Full-Stack Java & Backend Development
-- ⚙️ **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate
-- 🎨 **Frontend:** React.js, JavaScript, HTML5, CSS3
-- 🗄️ **Databases:** MySQL, PostgreSQL, H2
-- 🧪 **Testing & Tools:** Postman, Maven, Git, GitHub
-- 🤖 **Additional:** PowerShell, Python, OpenCV, Generative AI
-- 🎯 **Open to:** Full-time Software Developer / Backend / App Automation opportunities
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-![Java](https://img.shields.io/badge/Java%2017%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security%206-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
-
-**Frontend**
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL%208-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1D1D1D?style=flat-square)
-
-**Development & Testing**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Automation & AI**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Oracle GenAI](https://img.shields.io/badge/Oracle%20Cloud%20GenAI-F80000?style=flat-square&logo=oracle&logoColor=white)
+I'm a **Java Full Stack Developer** in Bengaluru, building secure REST APIs with **Spring Boot / Spring Security / MySQL** and pairing them with **React.js** frontends. At ParvaM Consul Tech I shipped and tested backend services end-to-end; freelance, I've designed and deployed live production sites for industrial-tooling clients (aimcuttingtools.com). I'm Oracle Cloud certified in Generative AI and currently deepening my stack through Capgemini's Java Full Stack training. **Open to full-time Software Engineer / Backend / Full-Stack roles, available now.**
 
 ---
 
 ## 💼 Experience
 
-### Full-Stack Java Developer Intern
-**ParvaM Consul Tech Pvt. Ltd.** · Bengaluru · *Feb 2026 – May 2026*
+**Java Full Stack Developer Training — TNSIF (powered by Capgemini)** · Bengaluru · *Jul 2026 – Present*
+Industry-aligned training in Java, Spring Boot, Spring Security (JWT), React.js, Spring Data JPA, REST APIs, MySQL; built full-stack apps following OOP, SOLID, and DSA fundamentals.
 
-- Developed and tested RESTful APIs using Java and Spring Boot
-- Worked with Spring Data JPA, Hibernate and MySQL for persistence and relational data management
-- Implemented authentication and password protection using Spring Security 6 and BCrypt
-- Used Postman and SQL validation to test API behavior, payloads and database persistence
-- Diagnosed backend exceptions, API failures and database connectivity issues
-- Worked with Git-based development workflows, code reviews and Agile/Scrum practices
-- Assisted with development-environment setup and configuration for Java, Maven, Spring Boot and MySQL
+**Full Stack / Web Developer — Freelance** · Remote · *2025 – Present*
+Delivered responsive B2B web apps in React.js, Tailwind CSS, and Vite; designed and launched production sites for industrial clients (AIM & WellEdge Cutting Tools); optimized cross-device performance and accessibility.
 
-### Freelance Frontend Developer
-**Self-Employed** · Remote · *2025 – Present*
-
-- Built responsive websites and frontend applications for 5+ small-business clients
-- Developed interfaces using HTML, CSS, JavaScript and React.js
-- Converted client requirements into responsive, user-focused web experiences
-- Maintained existing applications and resolved layout, browser-compatibility and broken-link issues
+**Full-Stack Java Developer Intern — ParvaM Consul Tech Pvt. Ltd.** · Bengaluru · *Feb 2026 – May 2026*
+Built and tested RESTful APIs with Java/Spring Boot; used Spring Data JPA + MySQL for persistence; implemented Spring Security 6 + BCrypt auth; validated API behavior with Postman; worked in Git-based Agile/Scrum workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 [InspiHire — Job Recruitment Portal](https://github.com/swaran526)
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `Postman`
+<details open>
+<summary><b>InspiHire — Full-Stack Job Recruitment Portal</b></summary>
+<br/>
 
-A full-stack recruitment platform designed around structured user, recruiter, job and application workflows.
+| | |
+|---|---|
+| **Stack** | Java, Spring Boot, Spring Security (JWT), React.js, MySQL, Spring Data JPA, REST APIs |
+| **What it does** | Role-based recruitment platform — candidates, recruiters, and admins, with application-tracking workflows |
+| **Engineering detail** | Indexed JPA queries + payload pagination for fast API responses; stateless JWT auth with bcrypt password hashing |
+| **Repo** | *(add your real InspiHire repo link here)* |
+</details>
 
-- Designed relational data models for users, recruiters, job postings, applications and resumes
-- Developed REST endpoints using Spring Boot
-- Implemented persistence with Spring Data JPA and Hibernate
-- Applied SQL indexing and query optimization techniques
-- Validated API authentication, payloads and responses with Postman
+<details>
+<summary><b>Drowsy Driver Detection System</b></summary>
+<br/>
 
-### 🚨 Smart City Accident Monitoring
-`IoT` `Event Trigger Logic` `Automated Alerting`
+| | |
+|---|---|
+| **Stack** | Python, OpenCV, CNN |
+| **What it does** | Real-time video analysis of facial/eye state to detect driver fatigue, triggering an audible alert |
+| **Repo** | *(add your real repo link here)* |
+</details>
 
-An accident-monitoring concept focused on detecting collision events and triggering emergency-response workflows.
+<details>
+<summary><b>Smart City Accident Monitoring (IoT)</b></summary>
+<br/>
 
-- Integrated collision-sensor events with automated processing logic
-- Designed an emergency notification workflow for rapid response
-- Focused on reducing the time between accident detection and alert generation
+| | |
+|---|---|
+| **Stack** | Arduino, ESP32, GPS Module, Embedded C, Wi-Fi |
+| **What it does** | Detects collision events and wirelessly transmits GPS location to trigger an emergency alert workflow |
+| **Repo** | *(add your real repo link here)* |
+</details>
 
-### 😴 Drowsy Driver Detection System
-`Python` `OpenCV` `CNN`
+<details>
+<summary><b>Client Websites — AIM & WellEdge Cutting Tools</b></summary>
+<br/>
 
-A computer-vision project for detecting driver fatigue using video-based facial and eye-state analysis.
-
-- Processed real-time video frames using OpenCV
-- Applied facial/eye-state analysis to identify fatigue indicators
-- Used a CNN-based classification approach for fatigue recognition
-- Triggered an audible warning when drowsiness conditions were detected
+| | |
+|---|---|
+| **Stack** | React.js, Tailwind CSS, Vite, Vercel |
+| **What it does** | Production catalog/showcase sites for industrial tooling manufacturers, live at aimcuttingtools.com |
+| **Repo** | *(add your real repo link here)* |
+</details>
 
 ---
 
-## 📚 Java & Spring Boot Knowledge
+## 🛠 Tech Stack
 
-<details>
-<summary>Click to expand</summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,tailwind,mysql,maven,git,github,postman,idea,vercel,cpp,arduino&perline=7" alt="Skill Icons" />
+</div>
 
-- Object-Oriented Programming and Java fundamentals
-- Collections Framework
-- Exception handling and custom exceptions
-- Lambda expressions and Stream API
-- Multithreading and ExecutorService
-- File I/O and NIO
-- JDBC and prepared statements
-- Servlet fundamentals
-- REST API development
-- Spring MVC and dependency injection
-- Spring Data JPA and Hibernate relationships
-- Pagination and sorting
-- Spring Security 6
-- BCrypt password encoding
-- React.js integration with Spring Boot APIs
-- SQL joins, normalization and indexing
-- Git branching, pull requests and code reviews
-
-</details>
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript (ES6+), SQL, HTML5, CSS3, Embedded C |
+| **Backend** | Spring Boot, Spring Security (JWT), Spring Data JPA, Hibernate, Spring MVC, REST APIs |
+| **Frontend** | React.js, Tailwind CSS, Bootstrap, Axios, Vite |
+| **Database & Tools** | MySQL, Maven, Git, GitHub, Postman, IntelliJ IDEA, Vercel |
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Issuing Organization |
+| Certification | Issuer |
 |---|---|
-| Oracle Cloud Infrastructure Certified Generative AI Professional | Oracle Cloud Infrastructure |
-| Java Full Stack Developer Internship Certificate | ParvaM Consul Tech Pvt. Ltd. |
-| Microsoft Office Productivity using AI & ChatGPT Certification | Be10x / Microsoft Suite |
+| OCI Certified Generative AI Professional | Oracle |
+| Java Full Stack Developer Internship | ParvaM Consul Tech Pvt. Ltd. |
+| Java Full Stack Training (C2C) | Capgemini / TNSIF |
+| Microsoft AI & ChatGPT Productivity | GIGA Skill Technologies |
+| Networking & Software fundamentals | Cisco / NPTEL |
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering (B.E.) — Computer Science & Engineering**
-Cambridge Institute of Technology, Bengaluru
-*October 2022 – May 2026* · CGPA: 7.8 / 10.0
-
----
-
-## 🧭 Engineering Approach
-
-```
-Requirements
-     ↓
-System / Database Design
-     ↓
-Spring Boot REST API
-     ↓
-Service & Repository Layers
-     ↓
-MySQL / JPA / Hibernate
-     ↓
-Postman API Validation
-     ↓
-React.js Frontend
-     ↓
-Git / GitHub Workflow
-     ↓
-Deployment & Maintenance
-```
-
-I focus on clean structure, readable code, validation, debugging and maintainability — rather than simply making an application work.
-
----
-
-## 🌱 GitHub Focus
-
-I use Git and GitHub for:
-
-- Feature-based development
-- Descriptive commits
-- Branching and merging
-- Pull-request workflows
-- Code review
-- Project documentation
-- Maintaining reproducible development workflows
-
----
-
-## 🎯 Career Interests
-
-Interested in entry-level opportunities involving:
-
-**Full-Stack Java Development · Backend Engineering · Spring Boot Development · Software Engineering · Application Automation**
-
----
-
-## 📫 Let's Connect
-
-If you're interested in software development, collaboration or entry-level engineering opportunities, feel free to reach out.
-
-<p align="center">
-  <a href="mailto:swaru14a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/swaran-k-n-0705072a4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/swaran526">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## 📊 GitHub Activity
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swaran526&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=swaran526&theme=synthwave&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
-*Building practical software. Learning continuously. Improving every day.*
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaran526&theme=react-dark" alt="Contribution Graph" width="100%" />
+</div>
 
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/u/swaran526/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/swaran526/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+  <a href="https://www.hackerrank.com/profile/swarankn05"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/swaran526"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,12&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
